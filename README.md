@@ -7,6 +7,8 @@ node.jsのexpress-generatorを使用してプロジェクトを作成しまし�
 ## Quick Start
 ```
 $ git clone https://github.com/nodokamome/node-express-template.git
-$ npm install express
+$ npm install
+
 $ npm run start
+// http://localhost:3000
 ```
